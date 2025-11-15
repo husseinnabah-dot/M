@@ -1,0 +1,1362 @@
+{
+    "1-1": {
+        "house_number": 1,
+        "owner_name": "عادل فاضل كريم",
+        "phone_number": "07731869909",
+        "floor": "1",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "1-2": {
+        "house_number": 2,
+        "owner_name": "عبد الحمزة هادي داود",
+        "phone_number": "0782826348",
+        "floor": "1",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "1-3": {
+        "house_number": 3,
+        "owner_name": "رحمن عبد الكاظم",
+        "phone_number": "07711819803",
+        "floor": "1",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "1-4": {
+        "house_number": 4,
+        "owner_name": "احمد برزان عبد الامير",
+        "phone_number": "07735053548",
+        "floor": "1",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "1-5": {
+        "house_number": 5,
+        "owner_name": "سرمد كاظم عبيد",
+        "phone_number": "07811744196",
+        "floor": "1",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "1-6": {
+        "house_number": 6,
+        "owner_name": "علي محمد علي",
+        "phone_number": "07828952395",
+        "floor": "1",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "1-7": {
+        "house_number": 7,
+        "owner_name": "حيدر عوده عبيد",
+        "phone_number": "07906968161",
+        "floor": "1",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "1-8": {
+        "house_number": 8,
+        "owner_name": "رعد صلاح كاظم",
+        "phone_number": "07806585767",
+        "floor": "1",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "1-9": {
+        "house_number": 9,
+        "owner_name": "جمال فالح دعيس",
+        "phone_number": "07827852108",
+        "floor": "1",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "1-10": {
+        "house_number": 10,
+        "owner_name": "ماهر حيدر جابر",
+        "phone_number": "0770004277",
+        "floor": "1",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "1-11": {
+        "house_number": 11,
+        "owner_name": "حسن منذر حسن",
+        "phone_number": "07724851175",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 20000
+    },
+    "1-12": {
+        "house_number": 12,
+        "owner_name": "عبد الحسين عبد الامير",
+        "phone_number": "0772797396",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-13": {
+        "house_number": 13,
+        "owner_name": "علي صلاح شهاب",
+        "phone_number": "07732975952",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-14": {
+        "house_number": 14,
+        "owner_name": "اشرف",
+        "phone_number": "07708666251",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-15": {
+        "house_number": 15,
+        "owner_name": "سمير جاسم حسون (جديد)",
+        "phone_number": "07803340263",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-16": {
+        "house_number": 16,
+        "owner_name": "مالك فاضل علي",
+        "phone_number": "07718818072",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-17": {
+        "house_number": 17,
+        "owner_name": "ضرغام علي عباس",
+        "phone_number": "07709899250",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-18": {
+        "house_number": 18,
+        "owner_name": "وهاب عبد الرزاق",
+        "phone_number": "07808440350",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-19": {
+        "house_number": 19,
+        "owner_name": "كرار رعد ناصر",
+        "phone_number": "07732047765",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-20": {
+        "house_number": 20,
+        "owner_name": "علي سليم شاكر",
+        "phone_number": "07814789929",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-21": {
+        "house_number": 21,
+        "owner_name": "عمار",
+        "phone_number": "",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-22": {
+        "house_number": 22,
+        "owner_name": "احمد كاظم حلو",
+        "phone_number": "07718116580",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-23": {
+        "house_number": 23,
+        "owner_name": "اسامه قحطان يلو",
+        "phone_number": "0785685852",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-24": {
+        "house_number": 24,
+        "owner_name": "صفاء علي حسين",
+        "phone_number": "07806036699",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-25": {
+        "house_number": 25,
+        "owner_name": "احمد حسين علي",
+        "phone_number": "07802003929",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-26": {
+        "house_number": 26,
+        "owner_name": "مصطفى عادل علي",
+        "phone_number": "07731484850",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-27": {
+        "house_number": 27,
+        "owner_name": "علي رابح خلف",
+        "phone_number": "07801685901",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-28": {
+        "house_number": 28,
+        "owner_name": "كاظم عباس علي (مؤجر)",
+        "phone_number": "",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-29": {
+        "house_number": 29,
+        "owner_name": "محمد حاتم جهاد",
+        "phone_number": "07814246059",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "1-30": {
+        "house_number": 30,
+        "owner_name": "جعفر موسى خضير",
+        "phone_number": "07601168087",
+        "floor": "1",
+        "branch_number": 2,
+        "paid_amount": 15000
+    },
+    "1-31": {
+        "house_number": 31,
+        "owner_name": "حسين حبيب مرزة",
+        "phone_number": "07806122456",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-32": {
+        "house_number": 32,
+        "owner_name": "حيدر حسن كطوف",
+        "phone_number": "07838078397",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-33": {
+        "house_number": 33,
+        "owner_name": "محمد عباس لفتة",
+        "phone_number": "07818615661",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-34": {
+        "house_number": 34,
+        "owner_name": "مدحت ناظم حسن",
+        "phone_number": "07716488429",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-35": {
+        "house_number": 35,
+        "owner_name": "عبد الرحمن بدران",
+        "phone_number": "07723620965",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-36": {
+        "house_number": 36,
+        "owner_name": "بهجت ناظم حسن",
+        "phone_number": "07727273054",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-37": {
+        "house_number": 37,
+        "owner_name": "صباح فيصل حمزة",
+        "phone_number": "07751288205",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-38": {
+        "house_number": 38,
+        "owner_name": "حسنين فاهم حسن",
+        "phone_number": "07713392380",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-39": {
+        "house_number": 39,
+        "owner_name": "سلام فاضل عبد",
+        "phone_number": "07817967913",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-40": {
+        "house_number": 40,
+        "owner_name": "هناء كاظم عبد",
+        "phone_number": "",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-41": {
+        "house_number": 41,
+        "owner_name": "مؤمل علي محمد",
+        "phone_number": "07706144243",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-42": {
+        "house_number": 42,
+        "owner_name": "نادية كاظم عبد",
+        "phone_number": "07804735411",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-43": {
+        "house_number": 43,
+        "owner_name": "منتظر محسن عبيد",
+        "phone_number": "07806093329",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-44": {
+        "house_number": 44,
+        "owner_name": "فاضل عبد الحسن سلطان",
+        "phone_number": "0772824825",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-45": {
+        "house_number": 45,
+        "owner_name": "حسين مهدي حسن",
+        "phone_number": "07831505029",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-46": {
+        "house_number": 46,
+        "owner_name": "علي حميد عبد الحسين",
+        "phone_number": "07845894959",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-47": {
+        "house_number": 47,
+        "owner_name": "حسين وادي وتوت",
+        "phone_number": "0782935900",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-48": {
+        "house_number": 48,
+        "owner_name": "علي حميد عبد الحسين",
+        "phone_number": "07845894959",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-49": {
+        "house_number": 49,
+        "owner_name": "محمد حساني",
+        "phone_number": "07738849941",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-50": {
+        "house_number": 50,
+        "owner_name": "مجيد عبد الزهرة",
+        "phone_number": "07802140484",
+        "floor": "1",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "1-51": {
+        "house_number": 51,
+        "owner_name": "محمد حسين علوان",
+        "phone_number": "07711877631",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-52": {
+        "house_number": 52,
+        "owner_name": "مهدي حبيب هادي",
+        "phone_number": "07727335578",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-53": {
+        "house_number": 53,
+        "owner_name": "دار شاغرة ط1 - 53",
+        "phone_number": "",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-54": {
+        "house_number": 54,
+        "owner_name": "محمد علي ناظم",
+        "phone_number": "",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-55": {
+        "house_number": 55,
+        "owner_name": "حامد عبد عمران",
+        "phone_number": "07723801563",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-56": {
+        "house_number": 56,
+        "owner_name": "اسد عباس علي",
+        "phone_number": "07812545269",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-57": {
+        "house_number": 57,
+        "owner_name": "سلام كاظم عبيد",
+        "phone_number": "07808238273",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-58": {
+        "house_number": 58,
+        "owner_name": "محمد باسم هادي",
+        "phone_number": "07763139000",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-59": {
+        "house_number": 59,
+        "owner_name": "علي صبحي سعيد",
+        "phone_number": "07828110069",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-60": {
+        "house_number": 60,
+        "owner_name": "فراس عامر غضبان",
+        "phone_number": "07702822803",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-61": {
+        "house_number": 61,
+        "owner_name": "سجاد",
+        "phone_number": "",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-62": {
+        "house_number": 62,
+        "owner_name": "بيت غير مسكون",
+        "phone_number": "",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-63": {
+        "house_number": 63,
+        "owner_name": "علي سعدي كاظم",
+        "phone_number": "07723808398",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-64": {
+        "house_number": 64,
+        "owner_name": "حسام عباس كاظم",
+        "phone_number": "",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-65": {
+        "house_number": 65,
+        "owner_name": "ذو الفقار عبد الرسول",
+        "phone_number": "07719222240",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-66": {
+        "house_number": 66,
+        "owner_name": "دار شاغرة ط1 - 66",
+        "phone_number": "",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-67": {
+        "house_number": 67,
+        "owner_name": "دار شاغرة ط1 - 67",
+        "phone_number": "",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-68": {
+        "house_number": 68,
+        "owner_name": "احمد مهدي عبيد",
+        "phone_number": "07810810554",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-69": {
+        "house_number": 69,
+        "owner_name": "احمد ابراهيم عباس",
+        "phone_number": "07716911957",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-70": {
+        "house_number": 70,
+        "owner_name": "سلام جاسم محمد",
+        "phone_number": "",
+        "floor": "1",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "1-71": {
+        "house_number": 71,
+        "owner_name": "احمد عدنان عبد النبي",
+        "phone_number": "07815726040",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "1-72": {
+        "house_number": 72,
+        "owner_name": "امير عبيد عبود",
+        "phone_number": "07819081457",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "1-73": {
+        "house_number": 73,
+        "owner_name": "ابراهيم حسن المعموري",
+        "phone_number": "07819134787",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "1-74": {
+        "house_number": 74,
+        "owner_name": "كرار ابراهيم حسين",
+        "phone_number": "07809702790",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "1-75": {
+        "house_number": 75,
+        "owner_name": "كرار نعمة محمد",
+        "phone_number": "07725423080",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "1-76": {
+        "house_number": 76,
+        "owner_name": "ابراهيم راضي الشمري",
+        "phone_number": "07812839622",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "1-77": {
+        "house_number": 77,
+        "owner_name": "حسام سعدون عباس",
+        "phone_number": "0766655068",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "1-78": {
+        "house_number": 78,
+        "owner_name": "ابو زينب",
+        "phone_number": "",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "1-79": {
+        "house_number": 79,
+        "owner_name": "انور عزيز عبد الرزاق",
+        "phone_number": "07838050401",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "1-80": {
+        "house_number": 80,
+        "owner_name": "انعام احمد عبد الحسين",
+        "phone_number": "07732355378",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "1-81": {
+        "house_number": 81,
+        "owner_name": "بيت غير مسكون",
+        "phone_number": "",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "1-82": {
+        "house_number": 82,
+        "owner_name": "مصطفى جواد هادي",
+        "phone_number": "0781338319",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "1-83": {
+        "house_number": 83,
+        "owner_name": "حيدرعبد الحسين السيلاوي",
+        "phone_number": "07713101359",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "1-84": {
+        "house_number": 84,
+        "owner_name": "دار شاغرة ط1 - 84",
+        "phone_number": "",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "1-85": {
+        "house_number": 85,
+        "owner_name": "دوهان حامد عبيد",
+        "phone_number": "07702449746",
+        "floor": "1",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-1": {
+        "house_number": 1,
+        "owner_name": "سجاد عبد الحسن مطر",
+        "phone_number": "07734676772",
+        "floor": "2",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "2-2": {
+        "house_number": 2,
+        "owner_name": "محمد صادق عبد الامير",
+        "phone_number": "07811836882",
+        "floor": "2",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "2-3": {
+        "house_number": 3,
+        "owner_name": "علي صالح علي",
+        "phone_number": "07815480675",
+        "floor": "2",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "2-4": {
+        "house_number": 4,
+        "owner_name": "صالح سلمان فليح",
+        "phone_number": "07765811406",
+        "floor": "2",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "2-5": {
+        "house_number": 5,
+        "owner_name": "محمد عبد المجيد فليح",
+        "phone_number": "078735023453",
+        "floor": "2",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "2-6": {
+        "house_number": 6,
+        "owner_name": "علي عبيس محيبس",
+        "phone_number": "07829366471",
+        "floor": "2",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "2-7": {
+        "house_number": 7,
+        "owner_name": "لؤي شدهان حمزة",
+        "phone_number": "07729809509",
+        "floor": "2",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "2-8": {
+        "house_number": 8,
+        "owner_name": "حيدر هاشم فليح",
+        "phone_number": "0781031264",
+        "floor": "2",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "2-9": {
+        "house_number": 9,
+        "owner_name": "مصطفى حيدر هاشم",
+        "phone_number": "0781031264",
+        "floor": "2",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "2-10": {
+        "house_number": 10,
+        "owner_name": "واثق عماد عبد الله",
+        "phone_number": "07814789328",
+        "floor": "2",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "2-11": {
+        "house_number": 11,
+        "owner_name": "عامر جواد غزاي",
+        "phone_number": "07810376756",
+        "floor": "2",
+        "branch_number": 1,
+        "paid_amount": 0
+    },
+    "2-12": {
+        "house_number": 12,
+        "owner_name": "ابراهيم صفاء كريم",
+        "phone_number": "07830893377",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-13": {
+        "house_number": 13,
+        "owner_name": "علي عماد كريم",
+        "phone_number": "07735049669",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-14": {
+        "house_number": 14,
+        "owner_name": "باسم عبد اللطيف غالب",
+        "phone_number": "07813060400",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-15": {
+        "house_number": 15,
+        "owner_name": "علي عبد الحسن ناصر",
+        "phone_number": "07726566544",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-16": {
+        "house_number": 16,
+        "owner_name": "حيدر علي عباس",
+        "phone_number": "07830420003",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-17": {
+        "house_number": 17,
+        "owner_name": "محمد جواد غزاي",
+        "phone_number": "07831691829",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-18": {
+        "house_number": 18,
+        "owner_name": "فلاح مهدي احمد",
+        "phone_number": "07735277400",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-19": {
+        "house_number": 19,
+        "owner_name": "مهند شاكر لهوف",
+        "phone_number": "07807285544",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-20": {
+        "house_number": 20,
+        "owner_name": "حسين عباس جاسم",
+        "phone_number": "07810824820",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-21": {
+        "house_number": 21,
+        "owner_name": "محمود شاكر لهوف",
+        "phone_number": "07738505078",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-22": {
+        "house_number": 22,
+        "owner_name": "حسين غني صاحب",
+        "phone_number": "07817033812",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-23": {
+        "house_number": 23,
+        "owner_name": "سوسن نهدي شهيد",
+        "phone_number": "07838527708",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-24": {
+        "house_number": 24,
+        "owner_name": "علي مهدي عبد",
+        "phone_number": "07723812084",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-25": {
+        "house_number": 25,
+        "owner_name": "حامد حسين كاظم",
+        "phone_number": "07807537498",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-26": {
+        "house_number": 26,
+        "owner_name": "ياسر سعد عبد كركوش",
+        "phone_number": "07732820408",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-27": {
+        "house_number": 27,
+        "owner_name": "كريم عبد محسن علي",
+        "phone_number": "07830030101",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-28": {
+        "house_number": 28,
+        "owner_name": "رياض مجيد عباس",
+        "phone_number": "07838952099",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-29": {
+        "house_number": 29,
+        "owner_name": "عماد شكر محمود",
+        "phone_number": "07901603426",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-30": {
+        "house_number": 30,
+        "owner_name": "مصطفى علي مزعل",
+        "phone_number": "07728260828",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-31": {
+        "house_number": 31,
+        "owner_name": "زيد موسى",
+        "phone_number": "07812121016",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-32": {
+        "house_number": 32,
+        "owner_name": "حسين مهدي حبيب",
+        "phone_number": "07711402313",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-33": {
+        "house_number": 33,
+        "owner_name": "محمد كاظم حسين",
+        "phone_number": "07807498063",
+        "floor": "2",
+        "branch_number": 2,
+        "paid_amount": 0
+    },
+    "2-34": {
+        "house_number": 34,
+        "owner_name": "علاء عمران ناجي",
+        "phone_number": "07805252510",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-35": {
+        "house_number": 35,
+        "owner_name": "حسين عمران ناجي",
+        "phone_number": "07721309299",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-36": {
+        "house_number": 36,
+        "owner_name": "منتصر عمران ناجي",
+        "phone_number": "07726814257",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-37": {
+        "house_number": 37,
+        "owner_name": "عبد الكريم",
+        "phone_number": "",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-38": {
+        "house_number": 38,
+        "owner_name": "عبد الكريم",
+        "phone_number": "",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-39": {
+        "house_number": 39,
+        "owner_name": "ابو سيف",
+        "phone_number": "",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-40": {
+        "house_number": 40,
+        "owner_name": "قيس جبار عباس",
+        "phone_number": "07819461746",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-41": {
+        "house_number": 41,
+        "owner_name": "علي رسول",
+        "phone_number": "07715964104",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-42": {
+        "house_number": 42,
+        "owner_name": "الروضة",
+        "phone_number": "",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-43": {
+        "house_number": 43,
+        "owner_name": "ناهض هاشم عبد الرسول",
+        "phone_number": "07734959932",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-44": {
+        "house_number": 44,
+        "owner_name": "رامي مسلم حميد",
+        "phone_number": "07713143790",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-45": {
+        "house_number": 45,
+        "owner_name": "مسلم حميد جوده",
+        "phone_number": "07711787317",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-46": {
+        "house_number": 46,
+        "owner_name": "هزاع محمد عباس",
+        "phone_number": "07801080416",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-47": {
+        "house_number": 47,
+        "owner_name": "بيت خارج القطر",
+        "phone_number": "",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-48": {
+        "house_number": 48,
+        "owner_name": "احسان جعفر غفار",
+        "phone_number": "07807427042",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-49": {
+        "house_number": 49,
+        "owner_name": "صادق عباس",
+        "phone_number": "07713130642",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-50": {
+        "house_number": 50,
+        "owner_name": "احمد باقر ناجي",
+        "phone_number": "07705880695",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-51": {
+        "house_number": 51,
+        "owner_name": "احمد مظهر الهلالي",
+        "phone_number": "07801461208",
+        "floor": "2",
+        "branch_number": 3,
+        "paid_amount": 0
+    },
+    "2-52": {
+        "house_number": 52,
+        "owner_name": "حسن جاسم خضير",
+        "phone_number": "07723973786",
+        "floor": "2",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "2-53": {
+        "house_number": 53,
+        "owner_name": "جمال عبد الحسين مجباس",
+        "phone_number": "07827260536",
+        "floor": "2",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "2-54": {
+        "house_number": 54,
+        "owner_name": "شاكر محمود عبد علي",
+        "phone_number": "07901558030",
+        "floor": "2",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "2-55": {
+        "house_number": 55,
+        "owner_name": "احمد عبيد عطية",
+        "phone_number": "07728839959",
+        "floor": "2",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "2-56": {
+        "house_number": 56,
+        "owner_name": "حسين مؤيد خنجر",
+        "phone_number": "",
+        "floor": "2",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "2-57": {
+        "house_number": 57,
+        "owner_name": "احمد مرزة عبود",
+        "phone_number": "07807314786",
+        "floor": "2",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "2-58": {
+        "house_number": 58,
+        "owner_name": "احمد حسن سلمان",
+        "phone_number": "07773917785",
+        "floor": "2",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "2-59": {
+        "house_number": 59,
+        "owner_name": "ثائر جبار عبد الحسين",
+        "phone_number": "07730207083",
+        "floor": "2",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "2-60": {
+        "house_number": 60,
+        "owner_name": "ضحى فاضل ابراهيم",
+        "phone_number": "07803929981",
+        "floor": "2",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "2-61": {
+        "house_number": 61,
+        "owner_name": "محمد سلطان حريجه",
+        "phone_number": "07808266518",
+        "floor": "2",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "2-62": {
+        "house_number": 62,
+        "owner_name": "عماد عبد الحسين تركي",
+        "phone_number": "07806749021",
+        "floor": "2",
+        "branch_number": 4,
+        "paid_amount": 0
+    },
+    "2-63": {
+        "house_number": 63,
+        "owner_name": "محمد يحيى حمزة",
+        "phone_number": "07805605361",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-64": {
+        "house_number": 64,
+        "owner_name": "حيدر راجي ناجي",
+        "phone_number": "07831487667",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-65": {
+        "house_number": 65,
+        "owner_name": "صلاح مهدي شهيد",
+        "phone_number": "07801618796",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-66": {
+        "house_number": 66,
+        "owner_name": "بومدين حسن حمزة",
+        "phone_number": "07702819585",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-67": {
+        "house_number": 67,
+        "owner_name": "كريم جبر احمد",
+        "phone_number": "07811161099",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-68": {
+        "house_number": 68,
+        "owner_name": "هلال حسين متيغي",
+        "phone_number": "07817528275",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-69": {
+        "house_number": 69,
+        "owner_name": "محمد هادي محمد",
+        "phone_number": "07714141999",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-70": {
+        "house_number": 70,
+        "owner_name": "مرتضى حنتوش ديكان",
+        "phone_number": "07722104487",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-71": {
+        "house_number": 71,
+        "owner_name": "حميد جخيور محمد",
+        "phone_number": "07731170951",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-72": {
+        "house_number": 72,
+        "owner_name": "رسول حسين عبود",
+        "phone_number": "07725746283",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-73": {
+        "house_number": 73,
+        "owner_name": "حسنين جاسم جبر",
+        "phone_number": "0781214657",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-74": {
+        "house_number": 74,
+        "owner_name": "جبار حازم كريم",
+        "phone_number": "07735061444",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-75": {
+        "house_number": 75,
+        "owner_name": "مهند شدهان موسى",
+        "phone_number": "07811558851",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-76": {
+        "house_number": 76,
+        "owner_name": "حسن رحيم خلف",
+        "phone_number": "07807624777",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-77": {
+        "house_number": 77,
+        "owner_name": "فضل الدين علي عباس",
+        "phone_number": "07801537808",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-78": {
+        "house_number": 78,
+        "owner_name": "رياض",
+        "phone_number": "",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-79": {
+        "house_number": 79,
+        "owner_name": "دار شاغرة ط2 - 79 (كانت شاغرة في الملف)",
+        "phone_number": "",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-80": {
+        "house_number": 80,
+        "owner_name": "اخت رياض",
+        "phone_number": "",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-81": {
+        "house_number": 81,
+        "owner_name": "عادل حمزة كاظم",
+        "phone_number": "07800532279",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-82": {
+        "house_number": 82,
+        "owner_name": "امير عبد العباس عمران",
+        "phone_number": "07801691034",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-83": {
+        "house_number": 83,
+        "owner_name": "اكرم حبيب كاظم",
+        "phone_number": "07803241005",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-84": {
+        "house_number": 84,
+        "owner_name": "خضر عباس كاظم",
+        "phone_number": "07781094548",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    },
+    "2-85": {
+        "house_number": 85,
+        "owner_name": "الدار الإضافية ط2 - 85",
+        "phone_number": "",
+        "floor": "2",
+        "branch_number": 5,
+        "paid_amount": 0
+    }
+}
