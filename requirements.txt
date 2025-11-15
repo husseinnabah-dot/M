@@ -1,0 +1,10 @@
+gunicorn
+sqlite3
+json
+io
+logging
+datetime
+telegram
+telegram.ext
+telegram.error
+urllib.parse
